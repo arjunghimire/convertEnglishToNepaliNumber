@@ -3,7 +3,7 @@
 
 ```js
 
-function convertEnglishToNepaliNumber(value){
+function convertEnglishNumberToNepaliNumber(value){
   if (value === null || value === undefined) {
     return 0;
   }
@@ -27,7 +27,7 @@ function convertEnglishToNepaliNumber(value){
   return normalizeArrayValue.join("");
 };
 
-convertEnglishToNepaliNumber(120)   // १२०
-convertEnglishToNepaliNumber(1234)   // १२३४
+convertEnglishNumberToNepaliNumber(120)   // १२०
+convertEnglishNumberToNepaliNumber(1234)   // १२३४
 
 ```
