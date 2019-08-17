@@ -1,4 +1,4 @@
-# convertEnglishToNepaliNumber
+# Convert English To Nepali Number
 
 
 ```js
